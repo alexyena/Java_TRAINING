@@ -40,9 +40,9 @@
 <body>
 
     <div id="wrapper">
-
+<!-- -
 	<jsp:include page="../templates/nav.jsp" /> 
-
+ -->
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-lg-12">
