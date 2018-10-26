@@ -10,7 +10,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">SB Admin v2.0</a>
+                <a class="navbar-brand" href="#">>SB Admin v2.0</a>
             </div>
             <!-- /.navbar-header -->
 
@@ -215,7 +215,7 @@
                         <li><a href="#"><i class="fa fa-gear fa-fw"></i> Settings</a>
                         </li>
                         <li class="divider"></li>
-                        <li><a href= <%= "login.jsp" %>><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+                        <li><a href= "/pms/login"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
                         </li>
                     </ul>
                     <!-- /.dropdown-user -->
@@ -275,7 +275,7 @@
                                     <a href="typography.html">Typography</a>
                                 </li>
                                 <li>
-                                    <a href="icons.html"> Icons</a>
+                                    <a href="/pms/icons"> Icons</a>
                                 </li>
                                 <li>
                                     <a href="grid.html">Grid</a>
@@ -320,7 +320,7 @@
                                     <a href="blank.html">Blank Page</a>
                                 </li>
                                 <li>
-                                    <a href="login.html">Login Page</a>
+                                    <a href="/pms/login">Login Page</a>
                                 </li>
                             </ul>
                             <!-- /.nav-second-level -->
